@@ -15,4 +15,6 @@ download to github - pull
 
 git config --global credential.username "Jagadeesh Talari"
 
+git checkout <commit_hash>
 
+git log --graph --all
